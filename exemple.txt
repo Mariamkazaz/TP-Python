@@ -1,0 +1,5 @@
+Bonjour,
+Voici la deuxième ligne.
+la troisième ligne.
+La programmation est un outil puissant.
+C'est la cinquième ligne.
